@@ -1,2 +1,2 @@
 # WorkFlow (Work In Progress)
-Kotlin DSL for externalized asynchrony
+Goovy DSL wrapper over CompletableFuture APIs for simplified asynchrony
