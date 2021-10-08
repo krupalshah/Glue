@@ -1,2 +1,2 @@
-# WorkFlow (Work In Progress)
+# Glue (Work In Progress)
 Goovy DSL wrapper over CompletableFuture APIs for simplified asynchrony
